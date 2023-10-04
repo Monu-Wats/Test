@@ -18,3 +18,9 @@ In this project we build a Data Lake On-Premises using containers Docker and bat
 - [x] Docker File
 - [x] PgAdmin
 - [x] Postgres
+
+## Architecture Diagram:
+
+<img src="/Architecture Diagram.png">
+
+I made this diagram using [Diagrams.net](https://app.diagrams.net/)
