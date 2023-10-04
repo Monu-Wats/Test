@@ -1,0 +1,11 @@
+valor_venda_unitario,valor_venda_total,custo_marketing,status_entrega,idade_vendedor,area_urbana,cliente_local
+9.5,138,11,Ruim,42,Sim,Sim
+11.22,111,16,Bom,65,Sim,Sim
+10.06,113,10,Medio,59,Sim,Sim
+7.4,117,4,Medio,55,Sim,Sim
+4.15,141,3,Ruim,38,Sim,Nao
+10.81,124,13,Ruim,78,Nao,Sim
+6.63,115,0,Medio,71,Sim,Nao
+11.85,136,15,Bom,67,Sim,Sim
+6.54,132,0,Medio,76,Nao,Nao
+4.69,132,0,Medio,76,Nao,Sim

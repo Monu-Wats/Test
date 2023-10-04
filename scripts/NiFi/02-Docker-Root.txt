@@ -1,0 +1,9 @@
+# Para acessar o container do NiFi como root:
+
+# Abra o terminal ou prompt na sua máquina local e digite:
+
+docker ps
+
+# Veja qual é o id do container NiFi. Pegue o id, coloque no comando abaixo e execute.
+
+docker exec -i -t --user root dfa5f96505fe bash

@@ -1,0 +1,17 @@
+# Configuração do Apache NiFi no DW:
+
+Nome do banco de dados: dw_vendas
+
+String de conexão: jdbc:postgresql://db_vendas:5433/dw_vendas
+
+Classe name: org.postgresql.Driver
+
+Faça download do driver no link abaixo:
+
+https://jdbc.postgresql.org/download/
+
+Driver Location: /opt/nifi/nifi-1.19.1/postgresql-42.5.1.jar
+
+Database user: dwvendas
+
+Password: dwvendas123

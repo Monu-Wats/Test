@@ -1,0 +1,13 @@
+Instale o pgAdmin, conecte no banco de dados do DW, crie o schema dwvendas e então execute o comando abaixo para criar a tabela que vai receber os dados.
+
+
+CREATE TABLE dwvendas."TB_VENDAS"
+(
+    valor_venda_unitario double precision,
+    valor_venda_total double precision,
+    custo_marketing double precision,
+    status_entrega text,
+    idade_vendedor bigint,
+    area_urbana text,
+    cliente_local text
+);

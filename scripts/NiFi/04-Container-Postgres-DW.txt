@@ -1,0 +1,10 @@
+# Preparando o Container Docker Para o Banco de Dados do DW
+
+
+# Execute o comando abaixo para inicializar o container
+
+docker run --name db_vendas -p 5433:5432 -e POSTGRES_USER=dwvendas -e POSTGRES_PASSWORD=dwvendas123 -e POSTGRES_DB=dw_vendas -d postgres
+
+
+# Acesse o Postgres pelo pgAdmin e crie um schema chamado dwvendas
+
