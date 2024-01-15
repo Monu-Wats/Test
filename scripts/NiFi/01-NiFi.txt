@@ -1,6 +1,6 @@
 # Para instalar e inicializar  o Apache NiFi:
 
-# 1- Baixe a imagem Docker:
+# 1- Baixe a imagem Docker: 
 
 docker pull apache/nifi
 
