@@ -1,3 +1,3 @@
-Host *
+
    StrictHostKeyChecking No
    UserKnownHostsFile=/feature1/null
